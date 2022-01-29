@@ -1,3 +1,3 @@
 # Hello-World
 First repository
-Started working at cedcoss
+Started working at cedcoss technologies
